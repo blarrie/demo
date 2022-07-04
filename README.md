@@ -1,2 +1,6 @@
 some updates
-hope this dont fk it up
+<<<<<<< HEAD
+
+=======
+this is gnna cause trouble
+>>>>>>> very-bad
