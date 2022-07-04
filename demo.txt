@@ -1,2 +1,0 @@
-Hello this is a demo text file created with the cat command
-I am gonna exit this text creation mode with cntrl D
